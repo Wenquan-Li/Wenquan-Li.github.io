@@ -5,10 +5,9 @@
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.title == 'blank' %}
+            <span class="font-weight-bold">
             {% if site.first_name %}
-              <span class="font-weight-bold">
                 {{- site.first_name -}}
-              </span>
             {% endif %}
             {% if site.middle_name %}
               {{- site.middle_name -}}
@@ -16,6 +15,7 @@
             {% if site.last_name %}
               {{- site.last_name -}}
             {% endif %}
+            </span>
           {% else %}
             {{- site.title -}}
           {% endif %}
@@ -97,7 +97,16 @@
               {% else %}
                 {% assign parent_link = p.permalink | remove: 'index.html' %}
                 <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">
-                  {% if p.permalink contains '/blog/' %}{% assign url = '/blog/' %} {% else %}{% assign url = p.url %}{% endif %}
+                  {% comment %}{% if p.permalink contains '/blog/' %} {% assign url = '/blog/' %} {% else %}{% assign url = p.url %}{% endif %}{% endcomment %}
+                  {% if p.permalink contains '/blog/' %}
+                      {% assign url = '/blog/' %}
+                  {% else %}
+                      {% if p.permalink contains 'cv.pdf' %}
+                          {% assign url = '/assets/pdf/cv.pdf' %}
+                      {% else %}
+                          {% assign url = p.url %}
+                      {% endif %}
+                  {% endif %}
                   <a class="nav-link" href="{{ url | relative_url }}">
                     {{- p.title }}
                     {% if page.url contains p.url %}
