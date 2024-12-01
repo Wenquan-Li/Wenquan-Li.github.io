@@ -10,18 +10,34 @@ nav_order: 15
 <p class="research-sep"></p>
 
 
-**Teaching experience 2**
+**Associate Supervisor**, Honours Thesis
+- UQ Business School 2022 – 2023
+- For Mr. Piers Herring (First-Class Honours)
 
-Workshop, University 1, Department, 2015
+**Guest Lecturer**, Advanced Studies in Finance 
+- Semester 1 2024
+- For Dr. Suman Neupane (The University of Queensland)
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Academic Tutor**, Behavioural Finance 
+- Semester 2 2023
+- For Assoc Prof. Kelvin Tan (The University of Queensland)
 
+**Teaching Assistant**, Corporate Finance Honours 
+- Semester 1 2022 & 2023
+- For Dr. Suman Neupane (The University of Queensland)
 
+**Teaching Assistant**, Financial Econometrics 
+- Semester 2 2021
+- For Prof. George J. Jiang (Washington State University)
 
-# &nbsp;
+**Guest Lecturer**, Financial Market and Financial Institutions 
+- Semester 2 2021
+- For Assoc Prof. He Wang (Southern University of Science and Technology)
 
-**Teaching experience 1**
+**Guest Lecturer**, Financial Econometrics 
+- Semester 2 2018
+- For Prof. Zhifeng Liu (Hainan University)
 
-Undergraduate course, University 1, Department, 2014
-
-This is a description of a teaching experience. You can use markdown like any other post.
+**Teaching Assistant**, Advanced Derivatives 
+- Semester 1 2018
+- For Prof. Jin E. Zhang (University of Otago)

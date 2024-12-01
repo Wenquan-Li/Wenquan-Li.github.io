@@ -9,8 +9,8 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> <small>Assistant Professor in Finance<small></p>
-    <p> <small>Xi’an Jiaotong-Liverpool University<small></p>
+    <p class="under-profile-photo-role-text"> Assistant Professor in Finance </p>
+    <p class="under-profile-photo-role-text"> Xi’an Jiaotong-Liverpool University </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,10 +19,17 @@ social: true # includes social icons at the bottom of the page
 
 Wenquan Li is an incoming Assistant Professor in Finance at [Xi’an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en/study/departments/international-business-school-suzhou/departments/department-of-finance/learning-and-teaching/department-staff). He earned a PhD in Finance from the [University of Queensland (UQ)](https://www.uq.edu.au/). Wenquan’s primary research interests include climate and environmental finance, household finance, financial accounting, and behavioral finance. His recent working papers also involve corporate bonds and mergers & acquisitions.
 
-Email: [Wenquan.Li@xjtlu.edu.cn](mailto: Wenquan.Li@xjtlu.edu.cn)
 
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5251302), [Curriculum Vitae](/assets/pdf/cv.pdf)
 
+
+## &nbsp;
+
+## Contact
+
+Email: [Wenquan.Li@xjtlu.edu.cn](mailto: Wenquan.Li@xjtlu.edu.cn)
+
+Office:  Xi’an Jiaotong-Liverpool University, International Business School Suzhou, Suzhou 215123, China
 
 ## &nbsp;
 
