@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 Wenquan Li is an incoming Assistant Professor in Finance at [Xi’an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en/study/departments/international-business-school-suzhou/departments/department-of-finance/learning-and-teaching/department-staff). He earned a PhD in Finance from the [University of Queensland (UQ)](https://www.uq.edu.au/). Wenquan’s primary research interests include climate and environmental finance, household finance, financial accounting, and behavioral finance. His recent working papers also involve corporate bonds and mergers & acquisitions.
 
 
-[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5251302), [Curriculum Vitae](/assets/pdf/cv.pdf), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-2543-2021),[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202590748).
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5251302), [Curriculum Vitae](/assets/pdf/cv.pdf), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-2543-2021), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202590748).
 
 
 ## &nbsp;
