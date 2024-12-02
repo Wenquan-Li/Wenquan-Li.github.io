@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Wenquan Li is an incoming Assistant Professor in Finance at [Xi’an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en/study/departments/international-business-school-suzhou/departments/department-of-finance/learning-and-teaching/department-staff). He earned a PhD in Finance from [The University of Queensland (UQ)](https://www.uq.edu.au/). Wenquan’s primary research interests include environmental and climate finance, household finance, and behavioral finance. His recent working papers also involve corporate bonds and mergers & acquisitions.<br>
-Wenquan's research has been presented at prestigious conferences (e.g., AFA, FIRN, FMA, EFMA, AsianFA, CAFM, and NZFM), and featured on [_The FinReg Blog_](https://sites.duke.edu/thefinregblog/2022/11/29/toxic-emissions-and-corporate-green-innovation/).<br>
+Wenquan's research has been presented at prestigious conferences (e.g., AFA, FIRN, FMA, EFMA, AsianFA, CAFM, and NZFM) and featured on [_The FinReg Blog_](https://sites.duke.edu/thefinregblog/2022/11/29/toxic-emissions-and-corporate-green-innovation/).<br>
 He serves as an ad-hoc reviewer for ABDC A*/A journals and is an alumnus of Ant Group's _Young Leaders Program in FinTech Research_.
 
 
