@@ -34,7 +34,7 @@ page_id: research_page
 
 📝  **Director Job Security and Corporate Environmental Policies**
 <br><span class="sub-s-title">with Suman Neupane (UQ) and Kelvin Tan (UQ)</span>
-- **Presentations**: 2024 FMA Annual Meeting; XJTLU Research Seminar; 7th FIRN PhD Symposium; 2023 SFiC Annual Conference (Scheduled). 
+- **Presentations**: 2024 FMA Annual Meeting; XJTLU Research Seminar; 7th FIRN PhD Symposium; 2024 SFiC Annual Conference (Scheduled). 
 
 <p class="research-sep2"></p>
 
