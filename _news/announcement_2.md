@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📝 I will join Xi’an Jiaotong-Liverpool University International Business School Suzhou as an Assistant Professor in Finance in 2024.
+📝 Will join Xi’an Jiaotong-Liverpool University International Business School Suzhou as an Assistant Professor in Finance in 2024.
