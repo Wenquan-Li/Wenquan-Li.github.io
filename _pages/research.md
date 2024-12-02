@@ -102,16 +102,15 @@ page_id: research_page
 ### Publications
 
 
-📄 “Internet and private insurance participation” (with Zhifeng Liu and Tingting Zhang), _**International
-   Journal of Finance & Economics**_ [ABS: 3], 2022, 27(1), 1495-1509.
+📄 **“Internet and private insurance participation”**, with Zhifeng Liu and Tingting Zhang, 2022, _**International
+   Journal of Finance & Economics**_.
 
-📄 “Only words matter? The effects of cognitive abilities on commercial insurance participation” (with
-   Zhifeng Liu, Kaixin Li, and Tingting Zhang), _**North American Journal of Economics and Finance**_
-   [ABS: 2], 2022, 61, 101691.
+📄 **“Only words matter? The effects of cognitive abilities on commercial insurance participation”**, with
+   Zhifeng Liu, Kaixin Li, and Tingting Zhang, 2022, _**North American Journal of Economics and Finance**_.
 
-📄 “Household debt and happiness: evidence from the China Household Finance Survey”, (with Zhifeng
-   Liu, Tingting Zhang, and Xueyi Zhong), _**Applied Economics Letters**_ [ABS: 1], 2020, 27(3), 199-205.
+📄 **“Household debt and happiness: evidence from the China Household Finance Survey”**, with Zhifeng
+   Liu, Tingting Zhang, and Xueyi Zhong, _**Applied Economics Letters**_ [ABS: 1], 2020, 27(3), 199-205.
 
-📄 “The neighborhood effects of provincial-level stock market participation in China”, (with Xiong Kuang,
-   Zhifeng Liu, and Tingting Zhang), _**Physica A: Statistical Mechanics and its Applications**_ [ABS:
+📄 **“The neighborhood effects of provincial-level stock market participation in China”**, with Xiong Kuang,
+   Zhifeng Liu, and Tingting Zhang, _**Physica A: Statistical Mechanics and its Applications**_ [ABS:
    2], 2018, 509, 459-468.
