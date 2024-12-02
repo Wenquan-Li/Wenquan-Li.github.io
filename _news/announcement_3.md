@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📝  I have obtained a PhD in Finance from The University of Queensland.
+📝  Proudly graduated from The University of Queensland with a Doctor of Philosophy in Finance.
