@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-‍🎓  Proudly graduated from The University of Queensland with a Doctor of Philosophy in Finance.
+‍🎓  My PhD thesis, titled _Three Essays on Corporate Toxic Emissions_, is now accessible on [UQ eSpace](https://espace.library.uq.edu.au/view/UQ:8a919d3).
