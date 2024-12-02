@@ -27,17 +27,17 @@ Wenquan Li is an incoming Assistant Professor in Finance at [Xi’an Jiaotong-Li
 
 ## Contact
 
-Email: [Wenquan.Li@xjtlu.edu.cn](mailto: Wenquan.Li@xjtlu.edu.cn)<br>
+- Email: [Wenquan.Li@xjtlu.edu.cn](mailto: Wenquan.Li@xjtlu.edu.cn)<br>
 - Office:  Xi’an Jiaotong-Liverpool University, International Business School Suzhou, Suzhou 215123, China
 
 ## &nbsp;
 
 ## Education
 
-2021 – 2024, Ph.D. in Finance, The University of Queensland<br>
-2018 – 2020, Msc in Finance, The Chinese University of Hong Kong, Shenzhen<br>
-2014 – 2018, B.Econ in Finance, Hainan University<br>
-2016, Exchange Program, Nanyang Technological University<br>
+- 2021 – 2024, Ph.D. in Finance, The University of Queensland<br>
+- 2018 – 2020, Msc in Finance, The Chinese University of Hong Kong, Shenzhen<br>
+- 2014 – 2018, B.Econ in Finance, Hainan University<br>
+- 2016, Exchange Program, Nanyang Technological University<br>
 
 
 
