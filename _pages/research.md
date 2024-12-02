@@ -25,10 +25,10 @@ page_id: research_page
 ### Working Papers
 
 
-📄 **Toxic Emissions and Corporate Green Innovation**
+📄 [**Toxic Emissions and Corporate Green Innovation**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4113290)
 <br><span class="sub-s-title">with Suman Neupane (UQ) and Kelvin Tan (UQ)</span>
-- **Media Coverage**: The FinReg Blog of the Duke Financial Economics Center at Duke University
-- **Presentations**: AFA 2023 PhD Student Poster; 11th FIRN Annual Conference; 2023 FIRN Corporate Finance Meeting; 36th AsianFA Annual Conference; 2023 USYD Business Financing and Banking Research Workshop; IRF 25th Anniversary Conference; UQ Brownbag Seminar; QUT Seminar Series; 2023 Frontier on Corporate Finance and Capital Market Development (Keynote Speech by Kelvin Tan).
+- **Media Coverage**: [The FinReg Blog of the Duke Financial Economics Center at Duke University](https://sites.duke.edu/thefinregblog/2022/11/29/toxic-emissions-and-corporate-green-innovation/)
+- **Presentations**: [AFA 2023 PhD Student Poster](file:///D:/OneDrive%20-%20CUHK-Shenzhen/%E6%96%87%E6%A1%A3/Downloads/ToxicEmissionsAndCorporateGreenInno_preview%20(9).pdf); 11th FIRN Annual Conference; 2023 FIRN Corporate Finance Meeting; 36th AsianFA Annual Conference; 2023 USYD Business Financing and Banking Research Workshop; IRF 25th Anniversary Conference; UQ Brownbag Seminar; QUT Seminar Series; 2023 Frontier on Corporate Finance and Capital Market Development (Keynote Speech by Kelvin Tan).
   
 <p class="research-sep2"></p>
 
@@ -55,7 +55,7 @@ page_id: research_page
 
 📄  **Academic CEOs and Corporate Innovation**
 <br><span class="sub-s-title">with George J. Jiang (WSU), Yaohua Li (Glasgow), and He Wang (SUSTech)</span>
-- R&R at Journal of Financial Research
+- R&R at _Journal of Financial Research_
 - **Presentations**: 17th CAFM; 35th AsianFA Annual Conference; SUSTech Seminar.
 
 <p class="research-sep2"></p>
