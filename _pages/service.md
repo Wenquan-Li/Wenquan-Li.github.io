@@ -17,11 +17,11 @@ page_id: service
 
 **Ad-hoc Reviewer**
 
-- The Brttish Accounting Review  
+- The British Accounting Review  
 - Journal of Business Finance & Accounting 
 - Journal of International Financial Markets, Institutions & Money 
-- KYKLOS
-- the International Review for Social Sciences, American Accomting Association Annual Meeting 
+- KYKLOS: the International Review for Social Sciences
+- American Accomting Association Annual Meeting 
 - Accounting Research Journal 
 - Journal of International Financial Management & Accounting 
 - SN Business & Economics
