@@ -10,8 +10,8 @@ nav_order: 15
 <p class="research-sep"></p>
 
 
-**Associate Supervisor**, Honours Thesis
-- UQ Business School 2022 – 2023
+**Associate Supervisor**, Honours Thesis - UQ Business School
+- 2022 – 2023
 - For Mr. Piers Herring (First-Class Honours)
 
 **Guest Lecturer**, Advanced Studies in Finance 
