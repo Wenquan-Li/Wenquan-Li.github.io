@@ -34,39 +34,38 @@ page_id: research_page
 
 📄  **Director Job Security and Corporate Environmental Policies**
 <br><span class="sub-s-title">with Suman Neupane (UQ) and Kelvin Tan (UQ)</span>
-- **Presentations**: XJTLU Research Seminar; 7th FIRN PhD Symposium; 2024 FMA Annual Meeting; 2023 SFiC Annual Conference (Scheduled). 
+- **Presentations**: 2024 FMA Annual Meeting; XJTLU Research Seminar; 7th FIRN PhD Symposium; 2023 SFiC Annual Conference (Scheduled). 
 
 <p class="research-sep2"></p>
 
-📄  **Environmental Externalities of Corporate Culture: Evidence from Firm Pollution**
+📄  [**Environmental Externalities of Corporate Culture: Evidence from Firm Pollution**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4337418)
 <br><span class="sub-s-title">with Suman Neupane (UQ) and Kelvin Tan (UQ)</span>
 - R&R at _British Accounting Review_ 
-- **Media Coverage**: The FinReg Blog of the Duke Financial Economics Center at Duke University
+- **Media Coverage**: [The FinReg Blog of the Duke Financial Economics Center at Duke University](https://sites.duke.edu/thefinregblog/2024/01/08/environmental-externalities-of-corporate-culture-evidence-from-firm-pollution/)
 - **Presentations**: UQ Brownbag Seminar. 
 
 <p class="research-sep2"></p>
 
-
-📄 **Does Green Die in Opportunism? Opportunistic NPE Litigation and Green Corporate Innovation**
+📄 [**Does Green Die in Opportunism? Opportunistic NPE Litigation and Green Corporate Innovation**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4634083)
 <br><span class="sub-s-title">with Piers Herring (UQ), Emdad Islam (Monash), and Suman Neupane (UQ)</span>
 - **Presentations**: 2023 CFRI&CIRF; 2023 SFiC Annual Conference; 2023 NZFM; 4th CEFGroup Sustainable Finance and Accounting Symposium.
 
 <p class="research-sep2"></p>
 
-📄  **Academic CEOs and Corporate Innovation**
+📄  [**Academic CEOs and Corporate Innovation**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4196027)
 <br><span class="sub-s-title">with George J. Jiang (WSU), Yaohua Li (Glasgow), and He Wang (SUSTech)</span>
 - R&R at _Journal of Financial Research_
 - **Presentations**: 17th CAFM; 35th AsianFA Annual Conference; SUSTech Seminar.
 
 <p class="research-sep2"></p>
 
-📄 **The Unintended Consequence of Employment Nondiscrimination Acts: Evidence from Earnings Management**
+📄 [**The Unintended Consequence of Employment Nondiscrimination Acts: Evidence from Earnings Management**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4683340)
 <br><span class="sub-s-title">with Wenbin Hu (UQ), George J. Jiang (WSU), and He Wang (SUSTech)</span>
 - **Media Coverage**: The FinReg Blog of the Duke Financial Economics Center at Duke University (Invited)
 
 <p class="research-sep2"></p>
 
-📄  **Academia to Action: Managerial Academic Experience and Corporate ESG Performance**
+📄  [**Academia to Action: Managerial Academic Experience and Corporate ESG Performance**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4652447)
 <br><span class="sub-s-title">with George J. Jiang (WSU), Nan Shi (Galaxy Securities), Zizhe Tang (SUSTech), and He Wang (SUSTech)</span>
 - **Presentations**: 
   - 6th ICAFEM; 33nd EFMA Conference.
@@ -81,14 +80,12 @@ page_id: research_page
 ### Publications
 
 
-📄 **“Internet and private insurance participation”**, with Zhifeng Liu and Tingting Zhang, 2022, _**International
-   Journal of Finance & Economics**_.
+📄 [**“Internet and private insurance participation”**](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2227?casa_token=531gXK6ydT0AAAAA%3A9E4Q_tcSu9rSrQn2pgWRMxAIBXCBwy2jZHRS_UMHNRkdEbqhaWxHOHiEgEFedkLrusBmaKEvgmkmkhQ), with Zhifeng Liu and Tingting Zhang, 2022, _**International Journal of Finance & Economics**_.
 
-📄 **“Only words matter? The effects of cognitive abilities on commercial insurance participation”**, with
+📄 [**“Only words matter? The effects of cognitive abilities on commercial insurance participation”**](https://www.sciencedirect.com/science/article/pii/S1062940822000468?casa_token=s0qQeJ8SMVMAAAAA:ahfXLCAbzPRX6oAhRzIyiQp4EtGcHi21Pm4eATOZyBagbvrNoWzHElLvgwbzpk2L7MEBkHn7nQ), with
    Zhifeng Liu, Kaixin Li, and Tingting Zhang, 2022, _**North American Journal of Economics and Finance**_.
 
-📄 **“Household debt and happiness: evidence from the China Household Finance Survey”**, with Zhifeng
-   Liu, Tingting Zhang, and Xueyi Zhong, 2020, _**Applied Economics Letters**_.
+📄 [**“Household debt and happiness: evidence from the China Household Finance Survey”**](https://www.tandfonline.com/doi/abs/10.1080/13504851.2019.1610706), with Zhifeng Liu, Tingting Zhang, and Xueyi Zhong, 2020, _**Applied Economics Letters**_.
 
-📄 **“The neighborhood effects of provincial-level stock market participation in China”**, with Xiong Kuang,
+📄 [**“The neighborhood effects of provincial-level stock market participation in China”**](https://www.sciencedirect.com/science/article/pii/S0378437118307568?casa_token=WyTMwtrgXTMAAAAA:NTfcY_hc9MWVe9kubI8z6yxuGFaPLoxkG_LLbCw27vc47O_DYhoJuQz6LOW1J3TmoxU8_sYVvA), with Xiong Kuang,
    Zhifeng Liu, and Tingting Zhang, 2018, _**Physica A: Statistical Mechanics and its Applications**_.
