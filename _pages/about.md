@@ -34,10 +34,10 @@ Wenquan Li is an incoming Assistant Professor in Finance at [Xi’an Jiaotong-Li
 
 ## Education
 
-- 2021 – 2024, Ph.D. in Finance, The University of Queensland<br>
-- 2018 – 2020, Msc in Finance, The Chinese University of Hong Kong, Shenzhen<br>
-- 2014 – 2018, B.Econ in Finance, Hainan University<br>
-- 2016, Exchange Program, Nanyang Technological University<br>
+- Ph.D. in Finance, The University of Queensland, 2021 – 2024<br>
+- Msc in Finance, The Chinese University of Hong Kong, Shenzhen, 2018 – 2020<br>
+- B.Econ in Finance, Hainan University, 2014 – 2018<br>
+- Exchange Program, Nanyang Technological University, 2016<br>
 
 
 
