@@ -28,7 +28,7 @@ Wenquan Li is an incoming Assistant Professor in Finance at [Xi’an Jiaotong-Li
 ## Contact
 
 Email: [Wenquan.Li@xjtlu.edu.cn](mailto: Wenquan.Li@xjtlu.edu.cn)<br>
-Office:  Xi’an Jiaotong-Liverpool University, International Business School Suzhou, Suzhou 215123, China
+- Office:  Xi’an Jiaotong-Liverpool University, International Business School Suzhou, Suzhou 215123, China
 
 ## &nbsp;
 
