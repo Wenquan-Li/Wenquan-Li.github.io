@@ -109,8 +109,7 @@ page_id: research_page
    Zhifeng Liu, Kaixin Li, and Tingting Zhang, 2022, _**North American Journal of Economics and Finance**_.
 
 📄 **“Household debt and happiness: evidence from the China Household Finance Survey”**, with Zhifeng
-   Liu, Tingting Zhang, and Xueyi Zhong, _**Applied Economics Letters**_ [ABS: 1], 2020, 27(3), 199-205.
+   Liu, Tingting Zhang, and Xueyi Zhong, 2020, _**Applied Economics Letters**_.
 
 📄 **“The neighborhood effects of provincial-level stock market participation in China”**, with Xiong Kuang,
-   Zhifeng Liu, and Tingting Zhang, _**Physica A: Statistical Mechanics and its Applications**_ [ABS:
-   2], 2018, 509, 459-468.
+   Zhifeng Liu, and Tingting Zhang, 2018, _**Physica A: Statistical Mechanics and its Applications**_.
