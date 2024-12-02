@@ -21,7 +21,7 @@ page_id: service
 - Journal of Business Finance & Accounting 
 - Journal of International Financial Markets, Institutions & Money 
 - KYKLOS: the International Review for Social Sciences
-- American Accomting Association Annual Meeting 
+- American Accounting Association Annual Meeting
 - Accounting Research Journal 
 - Journal of International Financial Management & Accounting 
 - SN Business & Economics
