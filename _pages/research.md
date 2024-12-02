@@ -67,8 +67,7 @@ page_id: research_page
 
 📄  [**Academia to Action: Managerial Academic Experience and Corporate ESG Performance**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4652447)
 <br><span class="sub-s-title">with George J. Jiang (WSU), Nan Shi (Galaxy Securities), Zizhe Tang (SUSTech), and He Wang (SUSTech)</span>
-- **Presentations**: 
-  - 6th ICAFEM; 33nd EFMA Conference.
+- **Presentations**: 6th ICAFEM; 33nd EFMA Conference.
 
 <p class="research-sep2"></p>
 
