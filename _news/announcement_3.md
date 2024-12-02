@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📝  Proudly graduated from The University of Queensland with a Doctor of Philosophy in Finance.
+‍🎓  Proudly graduated from The University of Queensland with a Doctor of Philosophy in Finance.
