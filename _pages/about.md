@@ -29,6 +29,9 @@ He serves as an ad-hoc reviewer for ABDC A*/A journals (e.g., BAR, JBFA, and JIF
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5251302), [Curriculum Vitae](/assets/pdf/cv.pdf), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-2543-2021), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202590748).
 
 
+Media coverage in Chinese: [UQCSSA](https://mp.weixin.qq.com/s/N9FgtTVlSq-Hy6ysdxyeQQ), [CUHK(SZ)-FINest](https://mp.weixin.qq.com/s/4oGp6IstjhhnlAGGlSPZrg)
+
+
 ## &nbsp;
 
 ## Contact
