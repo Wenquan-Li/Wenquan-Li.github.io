@@ -37,7 +37,7 @@ Media coverage in Chinese: [UQCSSA](https://mp.weixin.qq.com/s/N9FgtTVlSq-Hy6ysd
 ## Contact
 
 - Email: [Wenquan.Li@xjtlu.edu.cn](mailto: Wenquan.Li@xjtlu.edu.cn)<br>
-- Office: BS107, Department of Finance, International Business School Suzhou, Xi’an Jiaotong-Liverpool University, Suzhou, Jiangsu, China, 215123
+- Office: BS107, International Business School Suzhou, Xi’an Jiaotong-Liverpool University, Suzhou, China, 215123
 
 ## &nbsp;
 
