@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Wenquan Li is an incoming Assistant Professor in Finance at [Xi’an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en/study/departments/international-business-school-suzhou/departments/department-of-finance/learning-and-teaching/department-staff). He earned a PhD in Finance from [The University of Queensland (UQ)](https://www.uq.edu.au/). Wenquan’s primary research interests include environmental and climate finance, household finance, and behavioral finance. His recent working papers also involve corporate bonds and mergers & acquisitions.<br>
+Wenquan Li is an Assistant Professor in Finance at [Xi’an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en/study/departments/international-business-school-suzhou/departments/department-of-finance/learning-and-teaching/department-staff). He earned a PhD in Finance from [The University of Queensland (UQ)](https://www.uq.edu.au/). Wenquan’s primary research interests include environmental and climate finance, household finance, and behavioral finance. His recent working papers also involve corporate bonds and mergers & acquisitions.<br>
 
 
 Wenquan's research has been presented at prestigious conferences (e.g., AFA, FIRN, FMA, EFMA, AsianFA, CAFM, and NZFM) and featured on [The FinReg Blog](https://sites.duke.edu/thefinregblog/2022/11/29/toxic-emissions-and-corporate-green-innovation/) of the Duke Financial Economics Center. He received the _Dean’s Award for Outstanding HDR Theses_ from UQ.<br>
@@ -37,7 +37,7 @@ Media coverage in Chinese: [UQCSSA](https://mp.weixin.qq.com/s/N9FgtTVlSq-Hy6ysd
 ## Contact
 
 - Email: [Wenquan.Li@xjtlu.edu.cn](mailto: Wenquan.Li@xjtlu.edu.cn)<br>
-- Office:  Xi’an Jiaotong-Liverpool University, International Business School Suzhou, Suzhou 215123, China
+- Office: BS107, Department of Finance, International Business School Suzhou, Xi’an Jiaotong-Liverpool University, Suzhou, Jiangsu, China, 215123
 
 ## &nbsp;
 
