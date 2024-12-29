@@ -26,7 +26,7 @@ Wenquan's research has been presented at prestigious conferences (e.g., AFA, FIR
 He serves as an ad-hoc reviewer for ABDC A*/A journals (e.g., BAR, JBFA, and JIFMIM) and is an alumnus of Ant Group's _Young Leaders Program in FinTech Research_.
 
 
-[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5251302), [Curriculum Vitae](/assets/pdf/cv.pdf), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-2543-2021), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202590748).
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5251302), [Curriculum Vitae](/assets/pdf/cv.pdf), [Web of Science](https://www.webofscience.com/wos/author/record/AAF-2543-2021), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57202590748), and [Faculty Profile](https://scholar.xjtlu.edu.cn/en/persons/WenquanLi).
 
 
 Media coverage in Chinese: [UQCSSA](https://mp.weixin.qq.com/s/N9FgtTVlSq-Hy6ysdxyeQQ), [CUHK(SZ)-FINest](https://mp.weixin.qq.com/s/4oGp6IstjhhnlAGGlSPZrg)
