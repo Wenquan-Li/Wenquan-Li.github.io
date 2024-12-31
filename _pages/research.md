@@ -76,6 +76,11 @@ page_id: research_page
 
 <p class="research-sep"></p>
 
+📝 [**Environmental Pollution and Corporate Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5078106)
+<br><span class="sub-s-title">with Yancheng Qiu (USYD)</span>
+
+<p class="research-sep"></p>
+
 ### Publications
 
 
