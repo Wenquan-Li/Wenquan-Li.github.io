@@ -54,7 +54,7 @@ page_id: research_page
 
 📝  [**Academic CEOs and Corporate Innovation**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4196027)
 <br><span class="sub-s-title">with George J. Jiang (WSU), Yaohua Li (Glasgow), and He Wang (SUSTech)</span>
-- R&R at _Journal of Financial Research_
+- Accepted at _Journal of Financial Research_
 - **Presentations**: 17th CAFM; 35th AsianFA Annual Conference; SUSTech Seminar.
 
 <p class="research-sep2"></p>
