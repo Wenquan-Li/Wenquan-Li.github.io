@@ -52,13 +52,6 @@ page_id: research_page
 
 <p class="research-sep2"></p>
 
-📝  [**Academic CEOs and Corporate Innovation**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4196027)
-<br><span class="sub-s-title">with George J. Jiang (WSU), Yaohua Li (Glasgow), and He Wang (SUSTech)</span>
-- Accepted at _Journal of Financial Research_
-- **Presentations**: 17th CAFM; 35th AsianFA Annual Conference; SUSTech Seminar.
-
-<p class="research-sep2"></p>
-
 📝 [**The Unintended Consequence of Employment Nondiscrimination Acts: Evidence from Earnings Management**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4683340)
 <br><span class="sub-s-title">with Wenbin Hu (UQ), George J. Jiang (WSU), and He Wang (SUSTech)</span>
 - **Media Coverage**: The FinReg Blog of the Duke Financial Economics Center at Duke University (Invited)
