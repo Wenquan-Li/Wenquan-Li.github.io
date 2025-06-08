@@ -86,6 +86,8 @@ page_id: research_page
 
 📄 [**“Internet and private insurance participation”**](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2227?casa_token=531gXK6ydT0AAAAA%3A9E4Q_tcSu9rSrQn2pgWRMxAIBXCBwy2jZHRS_UMHNRkdEbqhaWxHOHiEgEFedkLrusBmaKEvgmkmkhQ), with Zhifeng Liu and Tingting Zhang, 2022, _**International Journal of Finance & Economics**_.
 
+📄 [**“Internet and private insurance participation”**](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2227?casa_token=531gXK6ydT0AAAAA%3A9E4Q_tcSu9rSrQn2pgWRMxAIBXCBwy2jZHRS_UMHNRkdEbqhaWxHOHiEgEFedkLrusBmaKEvgmkmkhQ), with Zhifeng Liu and Tingting Zhang, 2022, _**International Journal of Finance & Economics**_.
+
 📄 [**“Only words matter? The effects of cognitive abilities on commercial insurance participation”**](https://www.sciencedirect.com/science/article/pii/S1062940822000468?casa_token=s0qQeJ8SMVMAAAAA:ahfXLCAbzPRX6oAhRzIyiQp4EtGcHi21Pm4eATOZyBagbvrNoWzHElLvgwbzpk2L7MEBkHn7nQ), with
    Zhifeng Liu, Kaixin Li, and Tingting Zhang, 2022, _**North American Journal of Economics and Finance**_.
 
