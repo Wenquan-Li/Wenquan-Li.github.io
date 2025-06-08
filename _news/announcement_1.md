@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-‍📄 My paper, [Academic CEOs and Corporate Innovation](http://doi.org/10.1111/jfir.12469), has been published in the _Journal of Financial Research_.
+‍📄 My paper, [Academic CEOs and Corporate Innovation](http://doi.org/10.1111/jfir.12469), has been published in the _**Journal of Financial Research**_.
 
