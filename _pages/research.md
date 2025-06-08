@@ -77,7 +77,7 @@ page_id: research_page
 ### Publications
 
 
-📄 [**“Academic CEOs and Corporate Innovation”**](http://doi.org/10.1111/jfir.12469), with with George J. Jiang, Yaohua Li, and He Wang, 2025, _**Journal of Financial Research**_.
+📄 [**“Academic CEOs and Corporate Innovation”**](http://doi.org/10.1111/jfir.12469), with George Jiang, Yaohua Li, and He Wang, 2025, _**Journal of Financial Research**_.
 
 📄 [**“Internet and private insurance participation”**](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2227?casa_token=531gXK6ydT0AAAAA%3A9E4Q_tcSu9rSrQn2pgWRMxAIBXCBwy2jZHRS_UMHNRkdEbqhaWxHOHiEgEFedkLrusBmaKEvgmkmkhQ), with Zhifeng Liu and Tingting Zhang, 2022, _**International Journal of Finance & Economics**_.
 
