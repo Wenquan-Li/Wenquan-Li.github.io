@@ -22,8 +22,10 @@ page_id: service
 - Journal of International Financial Markets, Institutions & Money 
 - KYKLOS: the International Review for Social Sciences
 - American Accounting Association Annual Meeting
+- Accounting and Finance
 - Accounting Research Journal 
-- Journal of International Financial Management & Accounting 
+- Journal of International Financial Management & Accounting
+- Emerging Markets Finance and Trade
 - SN Business & Economics
 
 **Conference Discussant**
