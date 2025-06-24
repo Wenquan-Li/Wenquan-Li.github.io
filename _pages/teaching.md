@@ -9,6 +9,9 @@ nav_order: 15
 
 <p class="research-sep"></p>
 
+**Lecturer**, FIN206 Securities Markets (MQ: 4.94/5.0)
+- Semester 2 2025
+- Xi’an Jiaotong-Liverpool University
 
 **Associate Supervisor**, Honours Thesis - UQ Business School
 - 2022 – 2023
@@ -16,11 +19,11 @@ nav_order: 15
 
 **Guest Lecturer**, Advanced Studies in Finance 
 - Semester 1 2024
-- For Dr. Suman Neupane (The University of Queensland)
+- The University of Queensland
 
 **Academic Tutor**, Behavioural Finance 
 - Semester 2 2023
-- For Assoc Prof. Kelvin Tan (The University of Queensland)
+- The University of Queensland
 
 **Teaching Assistant**, Corporate Finance Honours 
 - Semester 1 2022 & 2023
@@ -32,11 +35,11 @@ nav_order: 15
 
 **Guest Lecturer**, Financial Market and Financial Institutions 
 - Semester 2 2021
-- For Assoc Prof. He Wang (Southern University of Science and Technology)
+- Southern University of Science and Technology
 
 **Guest Lecturer**, Financial Econometrics 
 - Semester 2 2018
-- For Prof. Zhifeng Liu (Hainan University)
+- Hainan University
 
 **Teaching Assistant**, Advanced Derivatives 
 - Semester 1 2018
