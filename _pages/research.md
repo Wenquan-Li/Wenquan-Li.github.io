@@ -40,7 +40,7 @@ page_id: research_page
 
 📝  [**Environmental Externalities of Corporate Culture: Evidence from Firm Pollution**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4337418)
 <br><span class="sub-s-title">with Suman Neupane (UQ) and Kelvin Tan (UQ)</span>
-- R&R at _British Accounting Review_ 
+- Accepted in _British Accounting Review_ 
 - **Media Coverage**: [The FinReg Blog of the Duke Financial Economics Center at Duke University](https://sites.duke.edu/thefinregblog/2024/01/08/environmental-externalities-of-corporate-culture-evidence-from-firm-pollution/)
 - **Presentations**: UQ Brownbag Seminar. 
 
