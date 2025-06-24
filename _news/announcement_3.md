@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-‍📄 My paper, [Environmental Externalities of Corporate Culture: Evidence from Firm Pollution](http://dx.doi.org/10.2139/ssrn.4337418), has been accepted for publicatio in the _**British Accounting Review**_.
+‍📄 My paper, [Environmental Externalities of Corporate Culture: Evidence from Firm Pollution](http://dx.doi.org/10.2139/ssrn.4337418), has been accepted for publication in the _**British Accounting Review**_.
