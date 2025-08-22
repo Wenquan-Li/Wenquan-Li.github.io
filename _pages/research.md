@@ -34,15 +34,7 @@ page_id: research_page
 
 📝  **Director Job Security and Corporate Environmental Policies**
 <br><span class="sub-s-title">with Suman Neupane (UQ) and Kelvin Tan (UQ)</span>
-- **Presentations**: 2024 FMA Annual Meeting; XJTLU Research Seminar; 7th FIRN PhD Symposium; 2024 SFiC Annual Conference (Scheduled). 
-
-<p class="research-sep2"></p>
-
-📝  [**Environmental Externalities of Corporate Culture: Evidence from Firm Pollution**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4337418)
-<br><span class="sub-s-title">with Suman Neupane (UQ) and Kelvin Tan (UQ)</span>
-- Accepted in _British Accounting Review_ 
-- **Media Coverage**: [The FinReg Blog of the Duke Financial Economics Center at Duke University](https://sites.duke.edu/thefinregblog/2024/01/08/environmental-externalities-of-corporate-culture-evidence-from-firm-pollution/)
-- **Presentations**: UQ Brownbag Seminar. 
+- **Presentations**: 2024 FMA Annual Meeting; XJTLU Research Seminar; 7th FIRN PhD Symposium; 2024 SFiC Annual Conference; 2025 Accounting Association of Australia and New Zealand (AAANZ) Conference.
 
 <p class="research-sep2"></p>
 
@@ -71,13 +63,16 @@ page_id: research_page
 
 📝 [**Environmental Pollution and Corporate Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5078106)
 <br><span class="sub-s-title">with Yancheng Qiu (USYD)</span>
+- **Presentations**: 2025 China International Conference in Finance (CICF); 15th Financial Markets and Corporate Governance (FMCG) Conference.
 
 <p class="research-sep"></p>
 
 ### Publications
 
 
-📄 [**“Academic CEOs and Corporate Innovation”**](http://doi.org/10.1111/jfir.12469), with George Jiang, Yaohua Li, and He Wang, 2025, _**Journal of Financial Research**_.
+📄 [**“Environmental externalities of corporate culture: Evidence from firm pollution”**](10.1016/j.bar.2025.101699), with Suman Neupane and Kelvin Tan, 2025, _**British Accounting Review**_. **Media Coverage**: [The FinReg Blog](https://sites.duke.edu/thefinregblog/2024/01/08/environmental-externalities-of-corporate-culture-evidence-from-firm-pollution/)
+
+📄 [**“Academic CEOs and corporate innovation”**](http://doi.org/10.1111/jfir.12469), with George Jiang, Yaohua Li, and He Wang, 2025, _**Journal of Financial Research**_.
 
 📄 [**“Internet and private insurance participation”**](https://onlinelibrary.wiley.com/doi/full/10.1002/ijfe.2227?casa_token=531gXK6ydT0AAAAA%3A9E4Q_tcSu9rSrQn2pgWRMxAIBXCBwy2jZHRS_UMHNRkdEbqhaWxHOHiEgEFedkLrusBmaKEvgmkmkhQ), with Zhifeng Liu and Tingting Zhang, 2022, _**International Journal of Finance & Economics**_.
 
