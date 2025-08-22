@@ -59,7 +59,7 @@ page_id: research_page
 📝 **Director Reelection Pressure and Mergers and Acquisitions: Evidence from Majority Voting Legislation**
 <br><span class="sub-s-title">with Tao (Jonas) Chen (NTU Singapore) and Wenbin Hu (UQ)</span>
 - **Presentations**: 37th AsianFA Annual Conference.
-- 
+
 <p class="research-sep2"></p>
 
 📝 [**Environmental Pollution and Corporate Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5078106)
