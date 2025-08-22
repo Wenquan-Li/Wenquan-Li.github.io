@@ -70,7 +70,8 @@ page_id: research_page
 ### Publications
 
 
-📄 [**“Environmental externalities of corporate culture: Evidence from firm pollution”**](10.1016/j.bar.2025.101699), with Suman Neupane and Kelvin Tan, 2025, _**British Accounting Review**_. **Media Coverage**: [The FinReg Blog](https://sites.duke.edu/thefinregblog/2024/01/08/environmental-externalities-of-corporate-culture-evidence-from-firm-pollution/)
+📄 [**“Environmental externalities of corporate culture: Evidence from firm pollution”**](10.1016/j.bar.2025.101699), with Suman Neupane and Kelvin Tan, 2025, _**British Accounting Review**_. 
+- **Media Coverage**: [The FinReg Blog](https://sites.duke.edu/thefinregblog/2024/01/08/environmental-externalities-of-corporate-culture-evidence-from-firm-pollution/)
 
 📄 [**“Academic CEOs and corporate innovation”**](http://doi.org/10.1111/jfir.12469), with George Jiang, Yaohua Li, and He Wang, 2025, _**Journal of Financial Research**_.
 
