@@ -34,7 +34,7 @@ page_id: research_page
 
 📝  **Director Job Security and Corporate Environmental Policies**
 <br><span class="sub-s-title">with Suman Neupane (UQ) and Kelvin Tan (UQ)</span>
-- **Presentations**: 2024 FMA Annual Meeting; XJTLU Research Seminar; 7th FIRN PhD Symposium; 2024 SFiC Annual Conference; 2025 Accounting Association of Australia and New Zealand (AAANZ) Conference.
+- **Presentations**: 2024 FMA Annual Meeting; XJTLU Research Seminar; 7th FIRN PhD Symposium; 2024 SFiC Annual Conference; 2025 Accounting & Finance Association of Australia and New Zealand (AFAANZ) Conference.
 
 <p class="research-sep2"></p>
 
@@ -64,7 +64,7 @@ page_id: research_page
 
 📝 [**Environmental Pollution and Corporate Credit Spreads**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5078106)
 <br><span class="sub-s-title">with Yancheng Qiu (USYD)</span>
-- **Presentations**: 2025 China International Conference in Finance (CICF); 15th Financial Markets and Corporate Governance (FMCG) Conference.
+- **Presentations**: 2026 American Finance Association (AFA) Junior Faculty Mentoring Program (JFMP); 2025 China International Conference in Finance (CICF); 15th Financial Markets and Corporate Governance (FMCG) Conference; XJTLU Finance Research Day.
 
 <p class="research-sep"></p>
 
